@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f25205a70ac684a53a9d554030633e86, type: 3}
+  m_Name: Element 1
+  m_EditorClassIdentifier: 
+  AB_TestValue: 
+  m_elementlist:
+  - m_Name: 
+    m_carprefab: {fileID: 0}
+    m_carindex: 0
+    price: 0
+    front_image: {fileID: 0}
+    power: 0
+    brake: 0
+    suspension: 0
+    upgrdIndex: 0
+    upgrdPowerArray: []
+    upgrdBrakeArray: []
+    upgrdSuspensionArray: []
+    PRICEupgradeArray: []
+    is_purchased: 0
+    is_activecar: 0
+    is_testing: 0
